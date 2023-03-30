@@ -55,7 +55,7 @@
 （二）共同作者
 - [1] 郭茂祖, 王诗鸣, 刘晓燕，田侦. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.
 - [2]Zhixia Teng, Maozu Guo, Xiaoyan Liu, Zhen Tian, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.
--[3]Zhixia Teng, Zhengnan Zhao, Yanjuan Li, Zhen Tian, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.
+- [3]Zhixia Teng, Zhengnan Zhao, Yanjuan Li, Zhen Tian, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.
 - [4]Zhixia Teng, Zitong Zhang, Zhen Tian, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.
 - [5]Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, Zhen Tian. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.
 - [6] Xiao Yang, Zhen Tian, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.
