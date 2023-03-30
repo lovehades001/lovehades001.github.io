@@ -46,3 +46,10 @@
 - 罗贤臣（Xianchen Luo）2022级硕士
 - 张壮壮（Zhuangzhuang Zhang）2022级硕士
 
+### 联系方式
+- 电子邮箱：ieztian@zzu.edu.cn
+- 个人主页：http://www7.zzu.edu.cn/csai/info/1054/1397.htm
+- 谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works
+- 联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3313室
+
+
