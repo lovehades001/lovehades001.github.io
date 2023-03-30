@@ -1,17 +1,18 @@
-<table border="0">
+    <!--<table border="0">
   <tr>
     <td width="75%">
       <h1>田侦</h1>
       <p><b>教师,2021-</b></p>
       <p><b>郑州大学计算机与人工智能学院</b></p>
       <p><b>邮箱：ieztian@zzu.edu.cn</b></p>
-      <!--<p><a href="/index-en.html">English Version</a></p>-->
+  <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/id.jpg" width="100%">
     </td>
   </tr>
 </table>
+-->
 
 ### 教育与工作经历
 - 2023年01月至今，郑州大学，计算机与人工智能学院，副教授
