@@ -34,9 +34,9 @@
 - [2] 国家自然科学基金委员会，重点项目，61532014，基于网络模刑的癌症相关模式挖掘理论与方法，结题，参与
 - [3] 国家自然科学基金委员会，面上项目，61402132，基于高通量测序数据多供体植物基因组结构变异识别方法研究，结题，参与
 
-### 发表论文
-发表期刊论文列表(#通讯作者)
-（一）第一/通讯作者（含共同#）
+### 发表期刊论文列表(* 通讯作者)
+
+（一）第一/通讯作者（含共同* ）
 - [1] Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, Zhen Tian. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
 - [2] Tian Zhen, Yu Y, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
 - [3] Zhen Tian, Xiangyu Peng, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
