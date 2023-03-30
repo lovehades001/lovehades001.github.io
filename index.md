@@ -75,5 +75,6 @@
 - 个人主页：http://www7.zzu.edu.cn/csai/info/1054/1397.htm
 - 谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works
 - 联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3313室
+- 欢迎对机器学习、数据挖掘和生物信息处理等方向感兴趣的同学加入学习小组，并将个人简历和本科成绩单发送至联系邮箱。
 
 
