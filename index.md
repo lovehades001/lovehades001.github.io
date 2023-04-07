@@ -13,12 +13,11 @@
 
 
 ### 研究方向
-- 生物实体关联预测
-<font color=red> 微生物-药物 </font>
-关联预测
-药物-靶标 关联预测
+- 基因本体及基因功能相似度计算
+- 基于深度学习模型的生物实体关系预测
+- 致病基因挖掘方法
+- 知识图谱
 
-- 对比学习在生物实体关联预测中的应用
 
  
 ### 科研项目
@@ -38,28 +37,28 @@
 ### 发表期刊论文列表(* 通讯作者)
 
 （一）第一/通讯作者（含共同* ）
-- [1] Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, Zhen Tian. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
-- [2] Tian Zhen, Yu Y, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
-- [3] Zhen Tian, Xiangyu Peng, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
-- [4] Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, Zhen Tian. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
-- [5] Zhen Tian, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
-- [6] Haichuan Fang, Youwei Wang, Zhen Tian*, Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
-- [7] Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
-- [8] Zhen Tian, Zhixia Teng, Shuang Cheng, Maozu Guo. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
-- [9] Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
-- [10]Zhen Tian, Maozu Guo, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.
-- [11]Zhen Tian, Maozu Guo, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.
-- [12] Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.
-- [13] Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.
-- [14] 朱真峰, 田侦. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
+- Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, Zhen Tian. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
+-  Tian Zhen, Yu Y, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
+-  Zhen Tian, Xiangyu Peng, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
+-  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, Zhen Tian. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
+-  Zhen Tian, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
+-  Haichuan Fang, Youwei Wang, Zhen Tian*, Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
+-  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
+-  Zhen Tian, Zhixia Teng, Shuang Cheng, Maozu Guo. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
+-  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
+- Zhen Tian, Maozu Guo, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.
+- Zhen Tian, Maozu Guo, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.
+-  Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.
+-  Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.
+- 朱真峰, 田侦. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
 
 （二）共同作者
-- [1] 郭茂祖, 王诗鸣, 刘晓燕，田侦. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.
-- [2]Zhixia Teng, Maozu Guo, Xiaoyan Liu, Zhen Tian, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.
-- [3]Zhixia Teng, Zhengnan Zhao, Yanjuan Li, Zhen Tian, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.
-- [4]Zhixia Teng, Zitong Zhang, Zhen Tian, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.
-- [5]Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, Zhen Tian. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.
-- [6] Xiao Yang, Zhen Tian, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.
+- 郭茂祖, 王诗鸣, 刘晓燕，田侦. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.
+- Zhixia Teng, Maozu Guo, Xiaoyan Liu, Zhen Tian, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.
+- Zhixia Teng, Zhengnan Zhao, Yanjuan Li, Zhen Tian, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.
+- Zhixia Teng, Zitong Zhang, Zhen Tian, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.
+- Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, Zhen Tian. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.
+- Xiao Yang, Zhen Tian, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.
 
 
 ### 培养学生：
