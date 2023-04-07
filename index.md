@@ -34,23 +34,23 @@
 - [2] 国家自然科学基金委员会，重点项目，61532014，基于网络模刑的癌症相关模式挖掘理论与方法，结题，参与
 - [3] 国家自然科学基金委员会，面上项目，61402132，基于高通量测序数据多供体植物基因组结构变异识别方法研究，结题，参与
 
-### 发表期刊论文列表(* 通讯作者)
+### 发表期刊论文列表
 
-（一）第一/通讯作者（*）
+（一）第一作者/通讯作者（*）
 - Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>**. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
 -  **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
--  **Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
+-  **Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
 -  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
--  **Zhen Tian**, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
--  Haichuan Fang, Youwei Wang, **Zhen Tian**, Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
--  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
--  Zhen Tian, Zhixia Teng, Shuang Cheng, Maozu Guo. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
--  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
-- Zhen Tian, Maozu Guo, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.
-- Zhen Tian, Maozu Guo, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.
--  Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.
--  Zhen Tian, Chunyu Wang, Maozu Guo, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.
-- 朱真峰, 田侦. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
+-  **Zhen Tian<sup>#</sup>**, Haichuan Fang<sup>#</sup>（指导学生）, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
+-  Haichuan Fang（指导学生）, Youwei Wang, **Zhen Tian<sup>*</sup>**, **Yangdong Ye<sup>*</sup>**. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
+-  **Zhen Tian**, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
+-  **Zhen Tian**, Zhixia Teng, Shuang Cheng, Maozu Guo<sup>*</sup>. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
+-  **Zhen Tian**, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
+- **Zhen Tian**, Maozu Guo<sup>*</sup>, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.
+- **Zhen Tian**, Maozu Guo<sup>*</sup>, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.
+-  **Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.
+-  **Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.
+- 朱真峰, 田侦<sup>*</sup>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
 
 （二）共同作者
 - 郭茂祖, 王诗鸣, 刘晓燕，田侦. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.
