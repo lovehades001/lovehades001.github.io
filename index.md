@@ -38,11 +38,11 @@
 
 （一）第一/通讯作者（*）
 - Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>**. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
--  **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, **Maozu Guo<sup>*</sup>**. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
--  Zhen Tian, Xiangyu Peng, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
--  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, Zhen Tian. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
--  Zhen Tian, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
--  Haichuan Fang, Youwei Wang, Zhen Tian*, Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
+-  **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
+-  **Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
+-  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
+-  **Zhen Tian**, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
+-  Haichuan Fang, Youwei Wang, **Zhen Tian**, Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
 -  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
 -  Zhen Tian, Zhixia Teng, Shuang Cheng, Maozu Guo. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
 -  Zhen Tian, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
