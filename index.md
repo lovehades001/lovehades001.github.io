@@ -36,9 +36,9 @@
 
 ### 发表期刊论文列表(* 通讯作者)
 
-（一）第一/通讯作者（含共同* ）
-- Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu,<font face="黑体"> Zhen Tian*</font>. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
--  Tian Zhen, Yu Y, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
+（一）第一/通讯作者（*）
+- Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>**. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
+-  **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, **Maozu Guo<sup>*</sup>**. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
 -  Zhen Tian, Xiangyu Peng, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
 -  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, Zhen Tian. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
 -  Zhen Tian, Haichuan Fang, Zhixia Teng, Yangdong Ye. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
