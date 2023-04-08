@@ -13,12 +13,12 @@
 
 
 ###  <font size=6>研究方向</font>
-<ul>
-<li>基因本体及基因功能相似度计算 
-<li>基于深度学习模型的生物实体关系预测
-<li>致病基因挖掘方法
-<li>知识图谱表示学习
-</ul>
+
++ <font size="4" color=black>基因本体及基因功能相似度计算 </font>
++ <font size="4" color=black>基于深度学习模型的生物实体关系预测</font>
++ <font size="4" color=black>致病基因挖掘方法</font>
++ <font size="4" color=black>知识图谱表示学习</font>
+
 
 ###  <font size=6>科研项目</font>
 <font size="4" color=black>（一）主持科研项目</font>
