@@ -3,10 +3,10 @@
 
 ### <font size=6>教育与工作经历</font>
 
-- <font size="4" color=black>2023年01月至今，郑州大学，计算机与人工智能学院，副教授</font>
+- <font size="4" color=black>2023年01月至今，郑州大学，计算机与人工智能学院，软件工程系，副教授</font>
 - <font size="4" color=black>2020年01月-2022年12月，郑州大学，计算机与人工智能学院，副教授（直聘）</font>
 - <font size="4" color=black>2020年01月-2021年02月，美国俄亥俄州立大学（Ohio State University）访问学者</font>
-- <font size="4" color=black>2018年03月-2020年01月，郑州大学，信息工程学院，讲师</font>
+- <font size="4" color=black>2018年03月-2020年01月，郑州大学，信息工程学院，软件工程系，讲师</font>
 - <font size="4" color=black>2013.09-2017.11：博士，哈尔滨工业大学，计算机科学与技术专业（导师：郭茂祖）</font>
 - <font size="4" color=black>2011.09-2013.07：硕士，哈尔滨工业大学，计算机科学与技术专业</font>
 - <font size="4" color=black>2007.09-2011.07：学士，哈尔滨工程大学，计算机科学与技术专业</font>
@@ -58,7 +58,6 @@
 - <font size="4" color=black>Zhixia Teng, Zitong Zhang, <b>Zhen Tian</b>, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
 - <font size="4" color=black>Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, <b>Zhen Tian</b>. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.</font>
 - <font size="4" color=black>Xiao Yang, <b>Zhen Tian</b>, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
-
 
 
 ### <font size=6>培养学生</font>
