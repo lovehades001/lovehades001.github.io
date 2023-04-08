@@ -49,8 +49,8 @@
 - <font size="4" color=black>**Zhen Tian**, Maozu Guo<sup>*</sup>, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.</font>
 -<font size="4" color=black> **Zhen Tian**, Maozu Guo<sup>*</sup>, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.</font>
 - <font  color=black>**Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.</font>
--  <font size="4" color=black>**Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.</font>
-- <font size="4" color=black>朱真峰, 田侦<sup>*</sup>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.</font>
+-  **Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.
+- 朱真峰, 田侦<sup>*</sup>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
 
 <font size="4" color=black>（二）共同作者</font>
 - <font size="4" color=black>郭茂祖, 王诗鸣, 刘晓燕，**田侦**. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.</font>
@@ -58,7 +58,7 @@
 - <font size="4" color=black>Zhixia Teng, Zhengnan Zhao, Yanjuan Li, **Zhen Tian**, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.</font>
 - <font size="4" color=black>Zhixia Teng, Zitong Zhang, **Zhen Tian**, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
 - <font size="4" color=black>Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, **Zhen Tian**. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.</font>
-- <font size="4" color=black>Xiao Yang, **Zhen Tian**, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
+- <font size="4" color=black>Xiao Yang, ** Zhen Tian**, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
 
 
 ### <font size=6>培养学生</font>
