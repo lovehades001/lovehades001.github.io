@@ -1,5 +1,5 @@
 ### <font size=6>个人简介</font>
-<p align="left"><font size="2">田侦，男，副教授，硕士生导师，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金一项，河南省博士后基金一项，河南省科技攻关项目一项。目前已在Briefings in Bioinformatics, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM2020等学术期刊和会议上发表多篇论文，多次担任Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，更多请访问 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works)。</font></p>
+<p align="left"><font size="5", color="black">田侦，男，副教授，硕士生导师，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金一项，河南省博士后基金一项，河南省科技攻关项目一项。目前已在Briefings in Bioinformatics, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM2020等学术期刊和会议上发表多篇论文，多次担任Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，更多请访问 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works)。</font></p>
 
 
 ### 教育与工作经历
