@@ -1,5 +1,5 @@
 ### 个人简介
-田侦，男，副教授，硕士生导师，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前已在Briefings in Bioinformatics, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM2020等学术期刊和会议上发表多篇论文，多次担任Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人。目前主持（完成）国家自然科学基金一项，河南省博士后基金一项，河南省科技攻关项目一项。
+田侦，男，副教授，硕士生导师，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金一项，河南省博士后基金一项，河南省科技攻关项目一项。目前已在Briefings in Bioinformatics, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM2020等学术期刊和会议上发表多篇论文，多次担任Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，更多请访问 [scholar]([http://example.com/](https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works))。
 
 
 ### 教育与工作经历
@@ -42,7 +42,7 @@
 -  **Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.
 -  Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.
 -  **Zhen Tian<sup>#</sup>**, Haichuan Fang<sup>#</sup>（指导学生）, Zhixia Teng, Yangdong Ye<sup>*</sup>. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
--  Haichuan Fang（指导学生）, Youwei Wang, **Zhen Tian<sup>*</sup>**, **Yangdong Ye<sup>*</sup>**. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
+-  Haichuan Fang（指导学生）, Youwei Wang, **Zhen Tian<sup>*</sup>**, Yangdong Ye<sup>*</sup>. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.
 -  **Zhen Tian**, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.
 -  **Zhen Tian**, Zhixia Teng, Shuang Cheng, Maozu Guo<sup>*</sup>. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.
 -  **Zhen Tian**, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.
