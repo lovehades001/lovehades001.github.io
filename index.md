@@ -37,7 +37,7 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
-- <font size="4" color=black>Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>**. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font>
+- <font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>**. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font>
 - <font size="4" color=black> **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font>
 -  <font size="4" color=black>**Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
 - <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.</font>
@@ -61,20 +61,20 @@
 - <font size="4" color=black>Xiao Yang, **Zhen Tian**, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
 
 
-### 培养学生：
-- 方海川（Haichuan Fang）2019级硕士
-- 彭祥余（Xiangyu Peng）2020级硕士
-- 余  跃（Yue Yu）2021级硕士
-- 韩晨光（Chenguang Han）2021级硕士
-- 徐乐文（Lewen Xu）2021级硕士
-- 罗贤臣（Xianchen Luo）2022级硕士
-- 张壮壮（Zhuangzhuang Zhang）2022级硕士
+### <font size=6>培养学生</font>
+- <font size="4" color=black>方海川（Haichuan Fang）2019级硕士</font>
+- <font size="4" color=black>彭祥余（Xiangyu Peng）2020级硕士</font>
+- <font size="4" color=black>余  跃（Yue Yu）2021级硕士</font>
+- <font size="4" color=black>韩晨光（Chenguang Han）2021级硕士</font>
+- <font size="4" color=black>徐乐文（Lewen Xu）2021级硕士</font>
+- <font size="4" color=black>罗贤臣（Xianchen Luo）2022级硕士</font>
+- <font size="4" color=black>张壮壮（Zhuangzhuang Zhang）2022级硕士</font>
 
-### 联系方式
-- 电子邮箱：ieztian（AT）zzu.edu.cn  && zhentian_hit（AT）163.com
-- 个人主页：http://www7.zzu.edu.cn/csai/info/1054/1397.htm
-- 谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works
-- 联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3313室
-- 欢迎对机器学习、数据挖掘和生物信息处理等方向感兴趣的同学加入学习小组，并将个人简历和本科成绩单发送至联系邮箱。
+### <font size=6>联系方式</font>
+- <font size="4" color=black>电子邮箱：ieztian（AT）zzu.edu.cn  && zhentian_hit（AT）163.com</font>
+- <font size="4" color=black>个人主页：http://www7.zzu.edu.cn/csai/info/1054/1397.htm</font>
+- <font size="4" color=black>谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works</font>
+- <font size="4" color=black>联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3313室</font>
+- <font size="4" color=black>欢迎对机器学习、数据挖掘和生物信息处理等方向感兴趣的同学加入学习小组，并将个人简历和本科成绩单发送至联系邮箱。</font>
 
 
