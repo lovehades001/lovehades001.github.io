@@ -7,7 +7,7 @@
 - <font size="4" color=black>2020年01月-2022年12月，郑州大学，计算机与人工智能学院，副教授（直聘）</font>
 - <font size="4" color=black>2020年01月-2021年02月，美国俄亥俄州立大学（Ohio State University），生物医学工程系，访问学者</font>
 - <font size="4" color=black>2018年03月-2020年01月，郑州大学，信息工程学院，讲师</font>
-- <font size="4" color=black>2013.09-2017.11：博士，哈尔滨工业大学，计算机科学与技术学院，计算机科学与技术专业（导师：郭茂祖）</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>2013.09-2017.11：博士，哈尔滨工业大学，计算机科学与技术学院，计算机科学与技术专业（导师：郭茂祖）</font></p>
 - <font size="4" color=black>2011.09-2013.07：硕士，哈尔滨工业大学，计算机科学与技术学院，计算机科学与技术专业</font>
 - <font size="4" color=black>2007.09-2011.07：学士，哈尔滨工程大学，计算机科学与技术学院，计算机科学与技术专业</font>
 
@@ -36,7 +36,7 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</p>
+- <style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font>
 - <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font></p>
 - <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
 - <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, <b>Zhen Tian<sup>*</sup></b>. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.</font>
