@@ -58,7 +58,7 @@
 - <font size="4" color=black>Zhixia Teng, Zhengnan Zhao, Yanjuan Li, **Zhen Tian**, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.</font>
 - <font size="4" color=black>Zhixia Teng, Zitong Zhang, **Zhen Tian**, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
 - <font size="4" color=black>Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, **Zhen Tian**. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.</font>
-- <font size="4" color=black>Xiao Yang, ** Zhen Tian**, \bold{Huayang Cui}, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
+- <font size="4" color=black>Xiao Yang, ** Zhen Tian**, Huayang Cui, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
 
 
 ### <font size=6>培养学生</font>
