@@ -13,7 +13,7 @@
 
 
 ###  <font size=6>研究方向</font>
-- <font size="4" color=black>基因本体及基因功能相似度计算</font>
+- <font size="4" color=black>基因本体及基因功能相似度计算 </font>
 - <font size="4" color=black>基于深度学习模型的生物实体关系预测</font>
 - <font size="4" color=black>致病基因挖掘方法</font>
 - <font size="4" color=black>知识图谱</font>
