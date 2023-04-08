@@ -53,7 +53,7 @@
 - 朱真峰, 田侦<sup>*</sup>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.
 
 <font size="4" color=black>（二）共同作者</font>
-- <font size="4" color=black>郭茂祖, 王诗鸣, 刘晓燕，** 田侦**. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.</font>
+- <font size="4" color=black>郭茂祖, 王诗鸣, 刘晓燕，** 田侦 **. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.</font>
 - <font size="4" color=black>Zhixia Teng, Maozu Guo, Xiaoyan Liu, **Zhen Tian**, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.</font>
 - <font size="4" color=black>Zhixia Teng, Zhengnan Zhao, Yanjuan Li, **Zhen Tian**, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.</font>
 - <font size="4" color=black>Zhixia Teng, Zitong Zhang, **Zhen Tian**, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
