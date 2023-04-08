@@ -37,7 +37,7 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
-- <font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **</font> <font size="4" color=black>Zhen Tian<sup>*</sup></font>** <font size="4" color=black>. Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font>
+- <font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>** . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
 - <font size="4" color=black> **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font>
 - <font size="4" color=black>**Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
 - <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.</font>
@@ -50,7 +50,7 @@
 -<font size="4" color=black> **Zhen Tian**, Maozu Guo<sup>*</sup>, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.</font>
 - <font size="4" color=black>**Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.</font>
 -  <font size="4" color=black>**Zhen Tian**, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14.</font>
-- <font size="4" color=black>朱真峰, **田侦<sup>*</sup>**. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.</font>
+- <font size="4" color=black>朱真峰, \bf{田侦}<sup>*</sup>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.</font>
 
 <font size="4" color=black>（二）共同作者</font>
 - <font size="4" color=black>郭茂祖, 王诗鸣, 刘晓燕，**田侦**. miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.</font>
