@@ -37,7 +37,7 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
-- <font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, $**Zhen Tian<sup>*</sup>**$ . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
+- <font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, **Zhen Tian<sup>*</sup>** . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.
 - <font size="4" color=black> **Zhen Tian**, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font>
 - <font size="4" color=black>**Zhen Tian<sup>#,*</sup>**, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
 - <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, **Zhen Tian<sup>*</sup>**. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.</font>
@@ -54,9 +54,9 @@
 
 <font size="4" color=black>（二）共同作者</font>
 - 郭茂祖, 王诗鸣, 刘晓燕，**田侦** . miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.
-- <font size="4" color=black>Zhixia Teng, Maozu Guo, Xiaoyan Liu, $*$*Zhen Tian$*$*, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.</font>
-- <font size="4" color=black>Zhixia Teng, Zhengnan Zhao, Yanjuan Li, $**Zhen Tian$**, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.</font>
-- <font size="4" color=black>Zhixia Teng, Zitong Zhang, $**Zhen Tian**$, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
+- <font size="4" color=black>Zhixia Teng, Maozu Guo, Xiaoyan Liu, **Zhen Tian**, Kai Che. Revealing protein functions based on relationships of interacting proteins and GO terms[J]. Journal of -biomedical semantics, 2017, 8(1): 9-17.</font>
+- <font size="4" color=black>Zhixia Teng, Zhengnan Zhao, Yanjuan Li, **Zhen Tian**, Maozu Guo, Qianzi Lu, Guohua Wang i6mA-Vote: cross-species identification of DNA N6-methyladenine sites in plant genomes based on ensemble learning with voting[J]. Frontiers in Plant Science, 2022, 13.</font>
+- <font size="4" color=black>Zhixia Teng, Zitong Zhang, **Zhen Tian**, Yanjuan Li, Guohua Wang. ReRF-Pred: predicting amyloidogenic regions of proteins based on their pseudo amino acid composition and tripeptide composition[J]. BMC bioinformatics, 2021, 22: 1-18.</font>
 - <font size="4" color=black>Qiguo Dai, Zhaowei Wang, Jinmiao Song, Xiaodong Duan, Maozu Guo, **Zhen Tian**. A stacked ensemble learning framework with heterogeneous feature combinations for predicting ncRNA-protein interaction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 67-71.</font>
 - <font size="4" color=black>Xiao Yang, ** Zhen Tian**, \bold{Huayang Cui}, Zhaoxin Zhang[C]. Link prediction on evolving network using tensor-based node similarity. 2012 IEEE 2nd International Conference on Cloud Computing and Intelligence Systems. IEEE, 2012, 1: 154-158.</font>
 
