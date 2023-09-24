@@ -23,9 +23,10 @@
 ###  <font size=6>科研项目</font>
 <font size="4" color=black>（一）主持科研项目</font>
 
-- <font size="4" color=black>[1] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
-- <font size="4" color=black>[2] 河南省博士后基金面上项目，247549，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
-- <font size="4" color=black>[3] 河南省科技攻关，32102211027，基于分层注意力机制的药物靶标关系预测研究，在研，主持</font>
+- <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，62301423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
+- <font size="4" color=black>[2] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
+- <font size="4" color=black>[3] 河南省博士后基金面上项目，247549，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
+- <font size="4" color=black>[4] 河南省科技攻关，32102211027，基于分层注意力机制的药物靶标关系预测研究，在研，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
 
@@ -68,6 +69,10 @@
 - <font size="4" color=black>徐乐文（Lewen Xu）2021级硕士</font>
 - <font size="4" color=black>罗贤臣（Xianchen Luo）2022级硕士</font>
 - <font size="4" color=black>张壮壮（Zhuangzhuang Zhang）2022级硕士</font>
+- <font size="4" color=black>周婉宁（Wanning Zhou）2022级硕士</font>
+- <font size="4" color=black>朱赛赛（SaiSai Zhu）2023级硕士</font>
+- <font size="4" color=black>林梦翔（Mengxiang Lin）2023级硕士</font>
+
 
 ### <font size=6>联系方式</font>
 - <font size="4" color=black>电子邮箱：ieztian（AT）zzu.edu.cn  && zhentian_hit（AT）163.com</font>
