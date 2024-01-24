@@ -62,9 +62,9 @@
 
 
 ### <font size=6>培养学生</font>
-- <font size="4" color=black>方海川（Haichuan Fang）2019级硕士</font>
-- <font size="4" color=black>彭祥余（Xiangyu Peng）2020级硕士</font>
-- <font size="4" color=black>余  跃（Yue Yu）2021级硕士</font>
+- <font size="4" color=black>方海川（Haichuan Fang）2019级硕士，郑州大学读博</font>
+- <font size="4" color=black>彭祥余（Xiangyu Peng）2020级硕士，商丘学院工作</font>
+- <font size="4" color=black>余  跃（Yue Yu）2021级硕士，哈尔滨工业大学读博，国家奖学金获得者</font>
 - <font size="4" color=black>韩晨光（Chenguang Han）2021级硕士</font>
 - <font size="4" color=black>徐乐文（Lewen Xu）2021级硕士</font>
 - <font size="4" color=black>罗贤臣（Xianchen Luo）2022级硕士</font>
@@ -72,6 +72,7 @@
 - <font size="4" color=black>周婉宁（Wanning Zhou）2022级硕士</font>
 - <font size="4" color=black>朱赛赛（SaiSai Zhu）2023级硕士</font>
 - <font size="4" color=black>林梦翔（Mengxiang Lin）2023级硕士</font>
+- <font size="4" color=black>蒋淼（Miao Jiang）2024级硕士</font>
 
 
 ### <font size=6>联系方式</font>
