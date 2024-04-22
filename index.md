@@ -37,6 +37,7 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
+- <p Tian Z, Han C, Xu L, et al. MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. Briefings in Bioinformatics, 2024, 25(3): bbae168.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font></p>
 - <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
@@ -72,7 +73,9 @@
 - <font size="4" color=black>周婉宁（Wanning Zhou）2022级硕士</font>
 - <font size="4" color=black>朱赛赛（SaiSai Zhu）2023级硕士</font>
 - <font size="4" color=black>林梦翔（Mengxiang Lin）2023级硕士</font>
+- <font size="4" color=black>范荣琪（Rongqi Fan）2023级硕士</font>
 - <font size="4" color=black>蒋淼（Miao Jiang）2024级硕士</font>
+- <font size="4" color=black>张浩然（Haoran Zhang）2024级硕士</font>
 
 
 ### <font size=6>联系方式</font>
