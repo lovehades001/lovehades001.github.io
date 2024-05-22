@@ -36,6 +36,8 @@
 ### <font size=6>发表期刊论文列表</font>
 
 <font size="4" color=black>（一）第一作者/通讯作者（*）</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b> <sup>*</sup>,  <b>Quan Zou </b> <sup>*</sup>. Drug-target interaction predictions with multi-view
+similarity network fusion strategy and deep interactive attention mechanism[J]. Bioinformatics, 2024, (Accepted in Print) .</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian<sup># </sup></b>, Chenguang Han<sup>#</sup>（指导学生）, Xu Lewen, Song Wei <sup>*</sup> . MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. Briefings in Bioinformatics, 2024, 25(3): bbae168.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font></p>
