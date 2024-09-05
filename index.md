@@ -33,9 +33,11 @@
 - <font size="4" color=black>[2] 国家自然科学基金委员会，重点项目，61532014，基于网络模型的癌症相关模式挖掘理论与方法，结题，参与</font>
 - <font size="4" color=black>[3] 国家自然科学基金委员会，面上项目，61402132，基于高通量测序数据多供体植物基因组结构变异识别方法研究，结题，参与</font>
 
-### <font size=6>发表期刊论文列表</font>
+### <font size=6>发表期刊论文列表
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wanning Zhou <sup>#</sup>, Wei Song <sup>#</sup>, Zhuangzhuang Zhang, Fan Zhang, Zhixia Teng, <b>Zhen Tian</b>  <sup>*</sup>. Hierarchical feature aggregation with mixed attention mechanism for single-cell RNAseq analysis. [J]. <b> Expert Systems With Applications </b>, 2024, In Press .</font></p>
+
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Yueyu , <b>Fengming Ni </b> <sup>*</sup>, Quan Zou. Drug-Target Interaction Prediction with Collaborative Contrastive Learning and Adaptive Self-Paced Sampling Strategy. [J]. <b>BMC Biology</b>, 2024, In Press .</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b><sup>*</sup>,  <b>Quan Zou</b> <sup>*</sup>. Drug-target interaction predictions with multi-view similarity network fusion strategy and deep interactive attention mechanism[J]. <b>Bioinformatics</b>, 2024, 40(6).</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian<sup># </sup></b>, Chenguang Han<sup>#</sup>（指导学生）, Xu Lewen, Song Wei <sup>*</sup> . MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. Briefings in Bioinformatics, 2024, 25(3): bbae168.</font></p>
