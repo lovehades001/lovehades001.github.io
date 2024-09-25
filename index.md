@@ -28,7 +28,6 @@
 - <font size="4" color=black>[4] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，在研，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
-
 - <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，61671189，侯选药物筛选中分子对接及药靶网络构建方法，结题，参与</font>
 - <font size="4" color=black>[2] 国家自然科学基金委员会，重点项目，61532014，基于网络模型的癌症相关模式挖掘理论与方法，结题，参与</font>
 - <font size="4" color=black>[3] 国家自然科学基金委员会，面上项目，61402132，基于高通量测序数据多供体植物基因组结构变异识别方法研究，结题，参与</font>
@@ -36,6 +35,8 @@
 ### <font size=6>发表期刊论文列表
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Yuguang Li , Shuai Lu <sup>*</sup>, <b>Zhen Tian</b> <sup>*</sup>. PMSFF: Improved protein binding residues prediction through multi-scale sequence-based feature fusion strategy.  <b> Biomolecules，2024, In Press. </b></font></p> 
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhengzheng Lou, Xiaojiao Wei, <b>Zhen Tian</b> <sup>*</sup>. Clustering scRNA-seq data with the cross-view collaborative information fusion strategy.  <b> Briefings in Bioinformatics，2024, In Press. </b></font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wanning Zhou <sup>#</sup>, Wei Song <sup>#</sup>, Zhuangzhuang Zhang, Fan Zhang, Zhixia Teng, <b>Zhen Tian</b>  <sup>*</sup>. Hierarchical feature aggregation with mixed attention mechanism for single-cell RNAseq analysis. [J]. <b> Expert Systems With Applications </b>,2024: 125340.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Yueyu , <b>Fengming Ni </b> <sup>*</sup>, Quan Zou. Drug-Target Interaction Prediction with Collaborative Contrastive Learning and Adaptive Self-Paced Sampling Strategy. [J]. <b>BMC Biology</b>, 2024, In Press .</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b><sup>*</sup>,  <b>Quan Zou</b> <sup>*</sup>. Drug-target interaction predictions with multi-view similarity network fusion strategy and deep interactive attention mechanism[J]. <b>Bioinformatics</b>, 2024, 40(6).</font></p>
