@@ -7,7 +7,7 @@
 - <font size="4" color=black>2020年01月-2022年12月，郑州大学，计算机与人工智能学院，副教授（直聘）</font>
 - <font size="4" color=black>2020年01月-2021年02月，美国俄亥俄州立大学（Ohio State University）访问学者</font>
 - <font size="4" color=black>2018年03月-2020年01月，郑州大学，信息工程学院，软件工程系，讲师</font>
-- <font size="4" color=black>2013.09-2017.11：博士，哈尔滨工业大学，计算机科学与技术专业（导师：郭茂祖）</font>
+- <font size="4" color=black>2013.09-2017.11：博士，哈尔滨工业大学，计算机科学与技术专业（<b>导师：郭茂祖</b>）</font>
 - <font size="4" color=black>2011.09-2013.07：硕士，哈尔滨工业大学，计算机科学与技术专业</font>
 - <font size="4" color=black>2007.09-2011.07：学士，哈尔滨工程大学，计算机科学与技术专业</font>
 
@@ -22,10 +22,10 @@
 
 ###  <font size=6>科研项目</font>
 <font size="4" color=black>（一）主持科研项目</font>
-- <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
+- <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，<b>在研，主持</b></font>
 - <font size="4" color=black>[2] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
 - <font size="4" color=black>[3] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
-- <font size="4" color=black>[4] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，在研，主持</font>
+- <font size="4" color=black>[4] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
 - <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，61671189，侯选药物筛选中分子对接及药靶网络构建方法，结题，参与</font>
@@ -35,16 +35,18 @@
 ### <font size=6>发表期刊论文列表
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Yuguang Li , Shuai Lu <sup>*</sup>, <b>Zhen Tian</b> <sup>*</sup>. PMSFF: Improved protein binding residues prediction through multi-scale sequence-based feature fusion strategy.  <b> Biomolecules，2024, In Press. </b></font></p> 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhengzheng Lou, Xiaojiao Wei, <b>Zhen Tian</b> <sup>*</sup>. Clustering scRNA-seq data with the cross-view collaborative information fusion strategy.  <b> Briefings in Bioinformatics，2024, In Press. </b></font></p>
+
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhen Tian, Zhuangzhuang Zhang, Wanning Zhou, Zhixia Teng, Wei Song,  <b>Quan Zou <sup>*</sup> </b> . DSANIB: drug-target interaction predictions with dual-view synergistic attention network and information bottleneck strategy[J]. <b>IEEE Journal of Biomedical and Health Informatics, 2024</b>, In Press.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b><sup>*</sup>,  <b>Quan Zou</b> <sup>*</sup>. Drug-target interaction predictions with multi-view similarity network fusion strategy and deep interactive attention mechanism[J]. <b>Bioinformatics, 2024</b>, 40(6).</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Yueyu , <b>Fengming Ni </b> <sup>*</sup>, Quan Zou. Drug-Target Interaction Prediction with Collaborative Contrastive Learning and Adaptive Self-Paced Sampling Strategy. [J]. <b>BMC Biology, 2024</b>, 22(1): 216.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhengzheng Lou, Xiaojiao Wei, <b>Zhen Tian</b> <sup>*</sup>. Clustering scRNA-seq data with the cross-view collaborative information fusion strategy.  <b> Briefings in Bioinformatics, 2024</b>, 25(6): bbae511. </font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Yuguang Li , Shuai Lu <sup>*</sup>, <b>Zhen Tian</b> <sup>*</sup>. PMSFF: Improved protein binding residues prediction through multi-scale sequence-based feature fusion strategy.  <b> Biomolecules, 2024</b>, 14(10): 1220.</font></p> 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wanning Zhou <sup>#</sup>, Wei Song <sup>#</sup>, Zhuangzhuang Zhang, Fan Zhang, Zhixia Teng, <b>Zhen Tian</b>  <sup>*</sup>. Hierarchical feature aggregation with mixed attention mechanism for single-cell RNAseq analysis. [J]. <b> Expert Systems With Applications </b>,2024: 125340.</font></p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Yueyu , <b>Fengming Ni </b> <sup>*</sup>, Quan Zou. Drug-Target Interaction Prediction with Collaborative Contrastive Learning and Adaptive Self-Paced Sampling Strategy. [J]. <b>BMC Biology</b>, 2024, In Press .</font></p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b><sup>*</sup>,  <b>Quan Zou</b> <sup>*</sup>. Drug-target interaction predictions with multi-view similarity network fusion strategy and deep interactive attention mechanism[J]. <b>Bioinformatics</b>, 2024, 40(6).</font></p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian<sup># </sup></b>, Chenguang Han<sup>#</sup>（指导学生）, Xu Lewen, Song Wei <sup>*</sup> . MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. Briefings in Bioinformatics, 2024, 25(3): bbae168.</font></p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. Methods, 2023, 212: 21-30.</font></p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.</font></p>
-- <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. Briefings in Bioinformatics, 2022, 23(6): bbac434.</font>
-- <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, <b>Zhen Tian<sup>*</sup></b>. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. Briefings in Bioinformatics, 2022.</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian<sup># </sup></b>, Chenguang Han<sup>#</sup>（指导学生）, Xu Lewen, Song Wei <sup>*</sup> . MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. <b>Briefings in Bioinformatics</b>, 2024, 25(3): bbae168.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. <b>Methods</b>, 2023, 212: 21-30.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. <b>Briefings in Bioinformatics</b>, 2023, 24(2): bbac634.</font></p>
+- <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. <b>Briefings in Bioinformatics, 2022</b>, 23(6): bbac434.</font>
+- <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, <b>Zhen Tian<sup>*</sup></b>. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. <b>Briefings in Bioinformatics</b>, 2022.</font>
 - <font size="4" color=black> <b>Zhen Tian<sup>#</sup></b>, Haichuan Fang<sup>#</sup>（指导学生）, Zhixia Teng, Yangdong Ye<sup>*</sup>. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.</font>
 - <font size="4" color=black> Haichuan Fang（指导学生）, Youwei Wang, <b>Zhen Tian<sup>*</sup></b>, Yangdong Ye<sup>*</sup>. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.</font>
 -  <font size="4" color=black><b>Zhen Tian</b>, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.</font>
