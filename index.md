@@ -1,9 +1,9 @@
 ### <font size=6>个人简介</font>
-<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，副教授，博士生导师，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金2项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，郑州大学特聘教授（青年拔尖岗），博士生导师，主持河南省优青项目。中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金2项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, JBHI, JAS, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
 
 ### <font size=6>教育与工作经历</font>
-
-- <font size="4" color=black>2023年01月至今，郑州大学，计算机与人工智能学院，软件工程系，副教授</font>
+- <font size="4" color=black>2025年01月至今，郑州大学，计算机与人工智能学院，郑州大学特聘教授</font>
+- <font size="4" color=black>2023年01月至2024年12月，郑州大学，计算机与人工智能学院，副教授</font>
 - <font size="4" color=black>2020年01月-2022年12月，郑州大学，计算机与人工智能学院，副教授（直聘）</font>
 - <font size="4" color=black>2020年01月-2021年02月，美国俄亥俄州立大学（Ohio State University）访问学者</font>
 - <font size="4" color=black>2018年03月-2020年01月，郑州大学，信息工程学院，软件工程系，讲师</font>
@@ -14,18 +14,19 @@
 
 ###  <font size=6>研究方向</font>
 
-+ <font size="4" color=black>基因本体及基因功能相似度计算 </font>
-+ <font size="4" color=black>基于深度学习模型的生物实体关系预测</font>
-+ <font size="4" color=black>致病基因挖掘方法</font>
-+ <font size="4" color=black>知识图谱表示学习</font>
++ <font size="4" color=black>数据挖掘与机器学习 </font>
++ <font size="4" color=black>生物信息学</font>
++ <font size="4" color=black>图表示学习</font>
++ <font size="4" color=black>生物实体关联关系预测</font>
 
 
 ###  <font size=6>科研项目</font>
 <font size="4" color=black>（一）主持科研项目</font>
-- <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
-- <font size="4" color=black>[2] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
-- <font size="4" color=black>[3] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
-- <font size="4" color=black>[4] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
+- <font size="4" color=black>[1] 河南省优秀青年基金，生物实体关联关系预测关键技术研究，2025.01至2027.12，在研，主持</font>
+- <font size="4" color=black>[2] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
+- <font size="4" color=black>[3] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
+- <font size="4" color=black>[4] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
+- <font size="4" color=black>[5] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
 - <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，61671189，侯选药物筛选中分子对接及药靶网络构建方法，结题，参与</font>
@@ -36,7 +37,8 @@
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian</b>, Zhuangzhuang Zhang, Wanning Zhou, Zhixia Teng, Wei Song,  <b>Quan Zou <sup>*</sup> </b> . DSANIB: drug-target interaction predictions with dual-view synergistic attention network and information bottleneck strategy[J]. <b>IEEE Journal of Biomedical and Health Informatics, 2024</b>, In Press.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Xiaoqiang Yan, Kun Deng, Quan Zou, <b>Zhen Tian <sup>*</sup> </b> , Hui Yu <sup>*</sup>. Self-cumulative contrastive graph clustering[J]. <b>IEEE/CAA Journal of Automatica Sinica, 2025</b>.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian</b>, Zhuangzhuang Zhang, Wanning Zhou, Zhixia Teng, Wei Song,  <b>Quan Zou <sup>*</sup> </b> . DSANIB: drug-target interaction predictions with dual-view synergistic attention network and information bottleneck strategy[J]. <b>IEEE Journal of Biomedical and Health Informatics, 2024</b></font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Wei Song, Lewen Xu, Chenguang Han,  <b>Zhen Tian </b><sup>*</sup>,  <b>Quan Zou</b> <sup>*</sup>. Drug-target interaction predictions with multi-view similarity network fusion strategy and deep interactive attention mechanism[J]. <b>Bioinformatics, 2024</b>, 40(6).</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Yueyu , <b>Fengming Ni </b> <sup>*</sup>, Quan Zou. Drug-Target Interaction Prediction with Collaborative Contrastive Learning and Adaptive Self-Paced Sampling Strategy. [J]. <b>BMC Biology, 2024</b>, 22(1): 216.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhengzheng Lou, Xiaojiao Wei, <b>Zhen Tian</b> <sup>*</sup>. Clustering scRNA-seq data with the cross-view collaborative information fusion strategy.  <b> Briefings in Bioinformatics, 2024</b>, 25(6): bbae511. </font></p>
@@ -45,18 +47,18 @@
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian<sup># </sup></b>, Chenguang Han<sup>#</sup>（指导学生）, Xu Lewen, Song Wei <sup>*</sup> . MGCNSS: miRNA–disease association prediction with multi-layer graph convolution and distance-based negative sample selection strategy[J]. <b>Briefings in Bioinformatics</b>, 2024, 25(3): bbae168.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhixia Teng, Linyue Shi, Haihao Yu, Chengyan Wu, <b>Zhen Tian<sup>*</sup></b> . Measuring functional similarity of lncRNAs based on variable K-mer profiles of nucleotide sequences[J]. <b>Methods</b>, 2023, 212: 21-30.</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Yue Yu, Haichuan Fang, Weixin Xie, Maozu Guo<sup>*</sup>. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. <b>Briefings in Bioinformatics</b>, 2023, 24(2): bbac634.</font></p>
-- <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. <b>Briefings in Bioinformatics, 2022</b>, 23(6): bbac434.</font>
-- <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, <b>Zhen Tian<sup>*</sup></b>. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. <b>Briefings in Bioinformatics</b>, 2022.</font>
-- <font size="4" color=black> <b>Zhen Tian<sup>#</sup></b>, Haichuan Fang<sup>#</sup>（指导学生）, Zhixia Teng, Yangdong Ye<sup>*</sup>. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.</font>
-- <font size="4" color=black> Haichuan Fang（指导学生）, Youwei Wang, <b>Zhen Tian<sup>*</sup></b>, Yangdong Ye<sup>*</sup>. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.</font>
--  <font size="4" color=black><b>Zhen Tian</b>, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.</font>
--  <font size="4" color=black><b>Zhen Tian</b>, Zhixia Teng, Shuang Cheng, Maozu Guo<sup>*</sup>. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.</font>
-- <font size="4" color=black> <b>Zhen Tian</b>, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.</font>
-- <font size="4" color=black><b>Zhen Tian</b>, Maozu Guo<sup>*</sup>, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.</font>
-- <font size="4" color=black> <b>Zhen Tian</b>, Maozu Guo<sup>*</sup>, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.</font>
-- <font  color=black><b>Zhen Tian</b>, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.</font>
--   <font size="4" color=black> <b>Zhen Tian</b>, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14. </font>
--  <font size="4" color=black> 朱真峰,<b> 田侦<sup>*</sup></b>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.</font>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black><b>Zhen Tian<sup>#,*</sup></b>, Xiangyu Peng<sup>#</sup>（指导学生）, Haichuan Fang, Wenjie Zhang, Qiguo Dai, Yangdong Ye<sup>*</sup>. MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms[J]. <b>Briefings in Bioinformatics, 2022</b>, 23(6): bbac434.</font></p>
+-  <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> Zhengzheng Lou, Zhaoxu Cheng, Hui Li, Zhixia Teng, Yang Liu, <b>Zhen Tian<sup>*</sup></b>. Predicting miRNA–disease associations via learning multimodal networks and fusing mixed neighborhood information[J]. <b>Briefings in Bioinformatics</b>, 2022.</font></p>
+-  <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian<sup>#</sup></b>, Haichuan Fang<sup>#</sup>（指导学生）, Zhixia Teng, Yangdong Ye<sup>*</sup>. GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity Analysis of Genes. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.</font></p>
+-  <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> Haichuan Fang（指导学生）, Youwei Wang, <b>Zhen Tian<sup>*</sup></b>, Yangdong Ye<sup>*</sup>. Learning knowledge graph embedding with a dual-attention embedding network[J]. Expert Systems with Applications, 2023, 212: 118806.</font></p>
+-   <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black><b>Zhen Tian</b>, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology[J]. BMC bioinformatics, 2022, 23(1): 1-14.</font></p>
+-  <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black><b>Zhen Tian</b>, Zhixia Teng, Shuang Cheng, Maozu Guo<sup>*</sup>. Computational drug repositioning using meta-path-based semantic network analysis. BMC Systems Biology, 2018, 12(9): 123-134.</font></p>
+-  <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Haichuan Fang, Yangdong Ye, Zhenfeng Zhu<sup>*</sup>. SWE: a novel method with semantic-weighted edge for measuring gene functional similarity[C]. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 1672-1678.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black><b>Zhen Tian</b>, Maozu Guo<sup>*</sup>, Chunyu Wang, Xiaoyan Liu, Shiming Wang. Tian Z, Guo M, Wang C, et al. Refine gene functional similarity network based on interaction networks[J]. BMC bioinformatics, 2017, 18(16): 183-193.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> <b>Zhen Tian</b>, Maozu Guo<sup>*</sup>, Chunyu Wang, LinLin Xing, Lei Wang, Yin Zhang. Constructing an integrated gene similarity network for the identification of disease genes[J]. Journal of biomedical semantics, 2017, 8(1): 27-41.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font  color=black><b>Zhen Tian</b>, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. An improved method for functional similarity analysis of genes based on Gene Ontology[J]. BMC systems biology, 2016, 10(4): 465-484.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">  <font size="4" color=black> <b>Zhen Tian</b>, Chunyu Wang, Maozu Guo<sup>*</sup>, Xiaoyan Liu, Zhixia Teng. SGFSC: speeding the gene functional similarity calculation based on hash tables[J]. BMC bioinformatics, 2016, 17(1): 1-14. </font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"> <font size="4" color=black> 朱真峰,<b> 田侦<sup>*</sup></b>. 基于思维导图的数据库原理课程总体认知分析[J]. 计算机教育, 2020.</font></p>
 
 <font size="4" color=black>（二）共同作者</font>
 - <font size="4" color=black>郭茂祖, 王诗鸣, 刘晓燕，<b>田侦</b> . miRNA 与疾病关联关系预测算法[J]. 软件学报, 2017, 28(11): 3094-3102.</font>
