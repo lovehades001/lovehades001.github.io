@@ -108,8 +108,8 @@
 ### <font size=6>联系方式</font>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> 电子邮箱：ieztian（AT）zzu.edu.cn  && zhentian_hit（AT）163.com</font></p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>个人主页：http://www7.zzu.edu.cn/csai/info/1054/1397.htm</font></p>
--  <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works</font></p>
--  <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3317室</font></p>
--  <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>欢迎对机器学习、数据挖掘和生物信息处理等方向感兴趣的同学加入学习小组，并将个人简历和本科成绩单发送至联系邮箱。</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>谷歌学术：https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>联系地址：河南省郑州市科学大道100号，郑州大学计算机与人工智能学院，3317室</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>欢迎对机器学习、数据挖掘和生物信息处理等方向感兴趣的同学加入学习小组，并将个人简历和本科成绩单发送至联系邮箱。</font></p>
 
 
