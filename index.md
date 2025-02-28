@@ -1,8 +1,8 @@
 ### <font size=6>个人简介</font>
-<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，郑州大学特聘教授（青年拔尖岗），博士生导师，主持河南省优青项目,国家超算中心特聘研究员，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金2项，河南省优秀青年基金1项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, JBHI, JAS, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，郑州大学特聘教授（青年拔尖岗），博士生导师，国家超算中心特聘研究员，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金2项，河南省优秀青年基金1项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, JBHI, JAS, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
 
 ### <font size=6>教育与工作经历</font>
-- <font size="4" color=black>2025年01月至今，郑州大学，计算机与人工智能学院，郑州大学特聘教授</font>
+- <font size="4" color=black>2025年01月至今，郑州大学，计算机与人工智能学院，郑州大学学科特聘教授</font>
 - <font size="4" color=black>2023年01月至2024年12月，郑州大学，计算机与人工智能学院，副教授</font>
 - <font size="4" color=black>2020年01月-2022年12月，郑州大学，计算机与人工智能学院，副教授（直聘）</font>
 - <font size="4" color=black>2020年01月-2021年02月，美国俄亥俄州立大学（Ohio State University）访问学者</font>
