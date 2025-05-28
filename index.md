@@ -96,6 +96,7 @@
 
 
 ### <font size=6>培养学生</font>
+- <font size="4" color=black>董知沅（Zhiyuan Dong）2025级博士</font>
 - <font size="4" color=black>方海川（Haichuan Fang）2019级硕士，郑州大学计算机学院读博（协助指导）</font> 
 - <font size="4" color=black>彭祥余（Xiangyu Peng）2020级硕士，商丘工学院（协助指导）</font>
 - <font size="4" color=black>余  跃（Yue Yu）2021级硕士，哈尔滨工业大学读博，国家奖学金获得者</font>
@@ -110,6 +111,10 @@
 - <font size="4" color=black>范荣琪（Rongqi Fan）2023级硕士（协助指导）</font>
 - <font size="4" color=black>蒋淼（Miao Jiang）2024级硕士</font>
 - <font size="4" color=black>张浩然（Haoran Zhang）2024级硕士</font>
+- <font size="4" color=black>欧阳恩来（Enlai Ouyang）2024级硕士（协助指导）</font>
+- <font size="4" color=black>王鑫洋（Xinyang Wang）2025级硕士</font>
+- <font size="4" color=black>杨舒雯（Shuwen Yang）2025级硕士</font>
+- <font size="4" color=black>申旭阳（Xuyang Shen）2025级硕士</font>
 
 
 ### <font size=6>联系方式</font>
