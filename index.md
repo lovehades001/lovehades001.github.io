@@ -37,6 +37,13 @@
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
 
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Shike Du, Quan Zou, <b>Zhen Tian  <sup>*</sup> </b>. Differentiable Graph Clustering with Structural Grouping for Single-cell RNA-seq Data. <b>Bioinformatics, 2025, (In press).</b></font></p>
+
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>. <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b>.</font></p>
+
+
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wenjie Zhang, Jun Yin, Long Ma, Peng Yu, Xiaoheng Jiang, <b>Zhen Tian  <sup>*</sup> </b>, Mingliang Xu <sup>*</sup>. <b>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(21): 22578-22586</b>.</font></p>
+
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Kun Deng, Quan Zou, <b>Zhen Tian <sup>*</sup> </b> , Hui Yu <sup>*</sup>. Self-cumulative contrastive graph clustering[J]. <b>IEEE/CAA Journal of Automatica Sinica, 2025</b>.</font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> <b>Zhen Tian</b>, Zhuangzhuang Zhang, Wanning Zhou, Zhixia Teng, Wei Song,  <b>Quan Zou <sup>*</sup> </b> . DSANIB: drug-target interaction predictions with dual-view synergistic attention network and information bottleneck strategy[J]. <b>IEEE Journal of Biomedical and Health Informatics, 2024</b>.</font></p>
