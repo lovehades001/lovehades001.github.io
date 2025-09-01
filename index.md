@@ -22,11 +22,12 @@
 
 ###  <font size=6>科研项目</font>
 <font size="4" color=black>（一）主持科研项目</font>
-- <font size="4" color=black>[1] 河南省优秀青年基金，生物实体关联关系预测关键技术研究，2025.01至2027.12，25万元， 在研，主持</font>
-- <font size="4" color=black>[2] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
-- <font size="4" color=black>[3] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
-- <font size="4" color=black>[4] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
-- <font size="4" color=black>[5] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
+- <font size="4" color=black>[1] 国家自然科学基金委员会金，重点项目，62531006，肿瘤多组学数据的生物信息技术与分析，2026.01至2030.1，77万元， 在研，第一参与人</font>
+- <font size="4" color=black>[2] 河南省优秀青年基金，药靶互作关系预测关键技术研究，2025.01至2027.12，25万元， 在研，主持</font>
+- <font size="4" color=black>[3] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</font>
+- <font size="4" color=black>[4] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
+- <font size="4" color=black>[5] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
+- <font size="4" color=black>[6] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
 - <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，61671189，候选药物筛选中分子对接及药靶网络构建方法，结题，参与</font>
@@ -39,8 +40,7 @@
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Shike Du, Quan Zou, <b>Zhen Tian  <sup>*</sup> </b>. Differentiable Graph Clustering with Structural Grouping for Single-cell RNA-seq Data. <b>Bioinformatics, 2025, (In press).</b></font></p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>. <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b>.</font></p>
-
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>.MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.  <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b>.</font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wenjie Zhang, Jun Yin, Long Ma, Peng Yu, Xiaoheng Jiang, <b>Zhen Tian  <sup>*</sup> </b>, Mingliang Xu <sup>*</sup>. <b>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(21): 22578-22586</b>.</font></p>
 
