@@ -42,7 +42,7 @@
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>.MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.  <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b>.</font></p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wenjie Zhang, Jun Yin, Long Ma, Peng Yu, Xiaoheng Jiang, <b>Zhen Tian  <sup>*</sup> </b>, Mingliang Xu <sup>*</sup>. <b>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(21): 22578-22586</b>.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wenjie Zhang, Jun Yin, Long Ma, Peng Yu, Xiaoheng Jiang, <b>Zhen Tian  <sup>*</sup> </b>, Mingliang Xu <sup>*</sup>. EchoDiffusion: Waveform Conditioned Diffusion Models for Echo-Based Depth Estimation.  <b>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(21): 22578-22586</b>.</font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Kun Deng, Quan Zou, <b>Zhen Tian <sup>*</sup> </b> , Hui Yu <sup>*</sup>. Self-cumulative contrastive graph clustering[J]. <b>IEEE/CAA Journal of Automatica Sinica, 2025</b>.</font></p>
 
