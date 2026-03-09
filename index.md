@@ -47,6 +47,7 @@
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>,  Saisai Zhu, Zhixia Teng, Xiaoqiang Yan<sup>*</sup>, Tao Wang<sup>*</sup>. MFCLDTA: Multi-scale feature contrastive learning for predicting drug-target binding affinity. <b>Expert Systems with Applications, 2025: 130918.</b></font></p>
 
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Zhixia Teng, Zhaowen Tian, Murong Zhou, Guohua Wang, <b>Zhen Tian  <sup>*</sup> </b>, Yuming Zhao<sup>*</sup>. Enhancing LncRNA-miRNA interaction prediction with multimodal contrastive representation learning. <b>Briefings in Bioinformatics, 2025, 26(3): bbaf281.</b></font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>.MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.  <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b></font></p>
 
@@ -121,8 +122,12 @@
 - <font size="4" color=black>张浩然（Haoran Zhang）2024级硕士</font>
 - <font size="4" color=black>欧阳恩来（Enlai Ouyang）2024级硕士（协助指导）</font>
 - <font size="4" color=black>王鑫洋（Xinyang Wang）2025级硕士</font>
-- <font size="4" color=black>杨舒雯（Shuwen Yang）2025级硕士</font>
+- <font size="4" color=black>杨舒雯（Shuwen Yang）2025级硕士（协助指导）</font>
 - <font size="4" color=black>申旭阳（Xuyang Shen）2025级硕士</font>
+- <font size="4" color=black>李康（Kang Li）2025级硕士（协助指导）</font>
+- <font size="4" color=black>高经纬（Jingwei Gao）2025级硕士（协助指导）</font>
+- <font size="4" color=black>杨航（Hang Yang）2026级硕士（协助指导）</font>
+
 
 
 ### <font size=6>联系方式</font>
