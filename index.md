@@ -41,11 +41,14 @@
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Shike Du, Quan Zou, <b>Zhen Tian  <sup>*</sup> </b>. Differentiable Graph Clustering with Structural Grouping for Single-cell RNA-seq Data. <b>Bioinformatics, 2025, 41(7): btaf347.</b></font></p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Mengxiang Lin, Rongqi Fan, Saisai Zhu, Xiaoqiang Yan, <b>Quan Zou  <sup>*</sup> </b>, <b>Zhen Tian  <sup>*</sup> </b>. Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping. <b>.Briefings in Bioinformatics, 2026, 27(1): bbaf717.</b></font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Mengxiang Lin, Rongqi Fan, Saisai Zhu, Xiaoqiang Yan, <b>Quan Zou  <sup>*</sup> </b>, <b>Zhen Tian  <sup>*</sup> </b>. Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping. <b>.PLOS Computational Biology, 2025, 21(12): e1013780.</b></font></p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Xiaojiao Wei, Zhengzheng Lou, Zhixia Teng, Shouli Fu<sup>*</sup>. Adaptive multi-view information bottleneck for multi-omics data clustering. <b>.Briefings in Bioinformatics, 2026, 27(1): bbaf717.</b></font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>, Xiaojiao Wei, Zhengzheng Lou, Zhixia Teng, Shouli Fu<sup>*</sup>. Adaptive multi-view information bottleneck for multi-omics data clustering. <b>Briefings in Bioinformatics, 2026, 27(1): bbaf717.</b></font></p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>.MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.  <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b>.</font></p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  <b>Zhen Tian</b>,  Saisai Zhu, Zhixia Teng, Xiaoqiang Yan<sup>*</sup>, Tao Wang<sup>*</sup>. MFCLDTA: Multi-scale feature contrastive learning for predicting drug-target binding affinity. <b>Expert Systems with Applications, 2025: 130918.</b></font></p>
+
+
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Pengfei Zhu, Han Shu, Yongtian Wang, Xiaofeng Wang, Yuan Zhao, Jialu Hu, Jiajie Peng, Xuequn Shang, <b>Zhen Tian  <sup>*</sup> </b>, Jing Chen<sup>*</sup>, Tao Wang <sup>*</sup>.MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.  <b>Briefings in Bioinformatics, 2025, 26(2): bbaf086.</b></font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Wenjie Zhang, Jun Yin, Long Ma, Peng Yu, Xiaoheng Jiang, <b>Zhen Tian  <sup>*</sup> </b>, Mingliang Xu <sup>*</sup>. EchoDiffusion: Waveform Conditioned Diffusion Models for Echo-Based Depth Estimation.  <b>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(21): 22578-22586</b>.</font></p>
 
