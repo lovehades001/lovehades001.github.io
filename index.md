@@ -1,5 +1,5 @@
 ### <font size=6>个人简介</font>
-<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，郑州大学特聘教授（青年拔尖岗），博士生导师，国家超算中心特聘研究员，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金3项，河南省优秀青年基金1项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, JBHI, JAS, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>田侦，男，郑州大学特聘教授（青年拔尖岗），博士生导师，国家超算中心特聘研究员，中国计算机学会生物信息学专委会委员。2017年11月毕业于哈尔滨工业大学，获得计算机科学与技术专业博士学位。2018年3月至今在郑州大学计算机与人工智能学院软件工程系任教。主要讲授《微机原理及接口技术》《算法设计与分析》等课程，主要研究方向机器学习，数据挖掘和生物信息学。目前主持（完成）国家自然科学基金3项，河南省优秀青年基金1项，河南省博士后基金1项，河南省科技攻关项目1项。目前已在Bioinformatics, BMC biology, Briefings in Bioinformatics, PCB, JBHI, JAS, BMC Bioinformatics，Expert Systems with Applications ,TCBB, BMC Systems Biology和BIBM等学术期刊和会议上发表多篇论文，多次担任Bioinformatics, Communication Biology, Briefings in Bioinformatics, TCBB和BIBM等期刊和会议审稿人，详情请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=6Eni8IgAAAAJ&view_op=list_works">Google Scholar</a> 。</font></p>
 
 ### <font size=6>教育与工作经历</font>
 - <font size="4" color=black>2025年01月至今，郑州大学，计算机与人工智能学院，郑州大学学科特聘教授</font>
@@ -16,7 +16,7 @@
 
 + <font size="4" color=black>数据挖掘与机器学习 </font>
 + <font size="4" color=black>生物信息学</font>
-+ <font size="4" color=black>图表示学习</font>
++ <font size="4" color=black>单细胞聚类分析及应用</font>
 + <font size="4" color=black>生物实体关联关系预测</font>
 
 
@@ -24,10 +24,11 @@
 <font size="4" color=black>（一）主持科研项目</font>
 - <font size="4" color=black> <b>[1] 国家自然科学基金委员会金，重点项目，62531006，肿瘤多组学数据的生物信息技术与分析，2026.01至2030.12， 在研，合作单位主持</b></font>
 - <font size="4" color=black> <b>[2] 河南省优秀青年基金，药靶互作关系预测关键技术研究，2025.01至2027.12，25万元， 在研，主持</b></font>
-- <font size="4" color=black> <b>[3] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习方法研究，2024.01至2027.12，53万元，在研，主持</b></font>
-- <font size="4" color=black>[4] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
-- <font size="4" color=black>[5] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
-- <font size="4" color=black>[6] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
+- <font size="4" color=black> <b>[3] 国家自然科学基金委员会，面上项目，62371423，知识图谱增强的跨视角分层图对比学习药靶互作关系预测研究，2024.01至2027.12，53万元，在研，主持</b></font>
+- <font size="4" color=black> <b>[4] 代谢素乱与食管癌防治全国重点实验室，培育项目，2025SGAQZ-PY05，基于智能计算模型的食管癌药物筛选方法研究，2026.01至2028.12，25万元，在研，主持</b></font>
+- <font size="4" color=black>[5] 国家自然科学基金委员会，青年科学基金项目，61801432，基于多元数据融合的药物重定位方法研究，2019.01至2021.12，24万元，结题，主持</font>
+- <font size="4" color=black>[6] 河南省博士后基金面上项目，202002014，基于多元数据融合的药物-子通路关联关系预测，结题,主持</font>
+- <font size="4" color=black>[7] 河南省科技攻关，232102211027，基于分层注意力机制的药物靶标关系预测研究，结题，主持</font>
 
 <font size="4" color=black>（二）参与科研项目</font>
 - <font size="4" color=black>[1] 国家自然科学基金委员会，面上项目，61671189，候选药物筛选中分子对接及药靶网络构建方法，结题，参与</font>
