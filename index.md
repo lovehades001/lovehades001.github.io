@@ -39,6 +39,10 @@
 
 <font size="4" color=black>（一）第一作者（#）/通讯作者（*）</font>
 
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Zhen Tian, Miao Jiang, Jin Li, Wenjie Zhang∗, Mingliang Xu∗. Adaptive Feature Selection with Hierarchical Learning for Drug-Target Interaction Prediction. <b>IEEE Journal of Biomedical and Health Informatics, 2026, Accepted.</b></font></p>
+
+- <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black> Xiaoqiang Yan, Fengshou Han, Yunpeng Wu, <b>Zhen Tian  <sup>*</sup> </b>. Compact and Informative Representation Learning for scRNA-seq Data Clustering with Masked Information Bottleneck. <b>BMC Biology, 2026, Accepted.</b></font></p>
+
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Xiaoqiang Yan, Shike Du, Quan Zou, <b>Zhen Tian  <sup>*</sup> </b>. Differentiable Graph Clustering with Structural Grouping for Single-cell RNA-seq Data. <b>Bioinformatics, 2025, 41(7): btaf347.</b></font></p>
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><font size="4" color=black>  Mengxiang Lin, Rongqi Fan, Saisai Zhu, Xiaoqiang Yan, <b>Quan Zou  <sup>*</sup> </b>, <b>Zhen Tian  <sup>*</sup> </b>. Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping. <b>.PLOS Computational Biology, 2025, 21(12): e1013780.</b></font></p>
